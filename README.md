@@ -19,9 +19,5 @@ En este programa se realiza un ejemplo del uso del patrón DAO para persistencia
 
 ![Diagrama UML del sistema](/assets/EjemploDao-UML.png?raw=true "Diagrama de clases UML")
 
-## Diagrama Entidad Relación de Base de Datos
-
-![Diagrama Entidad-Relación del sistema](/assets/Diagrama-base-de-datos.png?raw=true "Diagrama Entidad-Relación")
-
 
 
