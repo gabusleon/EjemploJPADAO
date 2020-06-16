@@ -7,7 +7,6 @@ import javax.persistence.NamedQuery;
 import javax.persistence.OneToOne;
 
 @NamedQuery(name = "getByLevel", query = "SELECT u FROM User u WHERE u.level >= :level")
-
 @Entity
 public class User {
     @Id
